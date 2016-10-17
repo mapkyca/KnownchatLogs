@@ -1,1 +1,1 @@
-Latest log: https://github.com/mapkyca/KnownchatLogs/blob/master/2016-10-16.md
+Latest log: https://github.com/mapkyca/KnownchatLogs/blob/master/2016-10-17.md
